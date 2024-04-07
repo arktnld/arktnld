@@ -6,21 +6,18 @@
 
 <p align="center">
   
-  <a href="https://lucasdev-nine.vercel.app">
+  <a href="https://arktnld.github.io">
     <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="blog">
   </a>
-  <a href="https://www.linkedin.com/in/lucasaguilardesenvolvedor/">
+  <a href="https://www.linkedin.com/in/arktnld/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  <a href="https://www.instagram.com/lucass_aguillar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 </p>
 
 <div>
   <br> </br>
   <ul>
-    <p>Sou um profissional de Engenharia de Dados com seis anos de experiência, com atuação tanto em empresas públicas quanto privadas. Possuo amplo domínio em linguagens de programação populares, bancos de dados, infraestrutura e serviços em nuvem.
+    <p>Sou um profissional de Ciência de Dados com seis anos de experiência, com atuação tanto em empresas públicas quanto privadas. Possuo amplo domínio em linguagens de programação populares, bancos de dados, infraestrutura e serviços em nuvem.
 </p>
   </ul>
 </div>
