@@ -33,5 +33,5 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucassaguilar&layout=compact&hide_border=true&theme=dracula"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arktnld&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arktnld&layout=compact&hide_border=true&theme=dracula"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arktnld&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
 </p>
