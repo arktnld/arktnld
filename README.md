@@ -17,7 +17,7 @@
 <div>
   <br> </br>
   <ul>
-    <p>Sou um profissional de Analista de Dados com seis anos de experiência, com atuação tanto em empresas públicas quanto privadas. Possuo amplo domínio em linguagens de programação populares, bancos de dados, infraestrutura e serviços em nuvem.
+    <p>Sou um profissional de Analise de Dados com seis anos de experiência, com atuação tanto em empresas públicas quanto privadas. Possuo amplo domínio em linguagens de programação populares, bancos de dados, infraestrutura e serviços em nuvem.
 </p>
   </ul>
 </div>
