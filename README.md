@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=234BEE&lines=font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+me+chamo+Cleberson;Sou+analista+de+dados+%F0%9F%A4%96;Seja+muito+bem+vindo!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=234BEE&lines=font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+me+chamo+Cleberson;Sou+engenheiro+de+dados+%F0%9F%A4%96;Seja+muito+bem+vindo!+" alt="Typing SVG">
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 <div>
   <br> </br>
   <ul>
-    <p>Sou um profissional de Análise de Dados com seis anos de experiência, com atuação tanto em empresas públicas quanto privadas. Possuo amplo domínio em linguagens de programação populares, bancos de dados, infraestrutura e serviços em nuvem.
+    <p>Sou um profissional de Engenheiro de Dados com seis anos de experiência, com atuação tanto em empresas públicas quanto privadas. Possuo amplo domínio em linguagens de programação populares, bancos de dados, infraestrutura e serviços em nuvem.
 </p>
   </ul>
 </div>
