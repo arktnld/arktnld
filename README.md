@@ -64,22 +64,8 @@ Bot Python que conecta WhatsApp ao Claude Code. Permite executar código, gerenc
 
 ---
 
-## Tech Stack
-
-```
-Backend:      Python (FastAPI, Flask) · Go · TypeScript (Next.js)
-Data:         PostgreSQL · DuckDB · ETL/ELT · Prisma
-Integrações:  REST · SOAP · Webhooks · n8n
-AI:           Claude SDK · Ollama · Open WebUI · DeepEval
-Infra:        Docker · Kubernetes · Linux · AWS
-Automação:    WhatsApp API · Telegram Bot · RPA
-```
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arktnld/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arktnld)
 
 Disponível para projetos freelance e consultoria.
