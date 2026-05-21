@@ -2,7 +2,7 @@
 
 **Engenheiro de Software Senior** com 6+ anos construindo sistemas backend, integrações de API e pipelines de dados em produção.
 
-Foco em resolver problemas reais: APIs que aguentam carga, ETLs que não perdem dados, automações que funcionam sem babá.
+Foco em resolver problemas reais: APIs que aguentam carga, ETLs que não perdem dados, automações que rodam sozinhas.
 
 ## O que eu faço
 
@@ -11,15 +11,6 @@ Foco em resolver problemas reais: APIs que aguentam carga, ETLs que não perdem 
 - **Integrações** — Conectei sistemas como Sankhya, Protheus (TOTVS), IXC Provedor, Kommo CRM, Ploomes. Sei lidar com APIs mal documentadas.
 - **AI Tooling** — Ferramentas que colocam LLMs pra trabalhar: bots WhatsApp, REST wrappers, deploy de modelos em Kubernetes.
 - **Infra** — Docker, Kubernetes, Linux. Deploy e manutenção de serviços em VPS e cloud.
-
-## Stack
-
-```
-Backend:    Python · Go · TypeScript          Infra:     Docker · Kubernetes · Linux
-Frameworks: FastAPI · Next.js · Prisma        Cloud:     AWS · VPS
-Dados:      PostgreSQL · DuckDB · ETL         AI:        Claude SDK · Ollama · Open WebUI
-Automação:  n8n · WhatsApp API                OS:        Arch Linux · Hyprland · Neovim
-```
 
 ## Projetos em destaque
 
