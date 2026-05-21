@@ -1,16 +1,17 @@
 # Cleberson Gomes
 
-**Engenheiro de Software Senior** com 6+ anos construindo sistemas backend, integrações de API e pipelines de dados em produção.
+**Engenheiro de Software Senior** com 6+ anos de experiência em backend, integrações e data engineering.
 
-Foco em resolver problemas reais: APIs que aguentam carga, ETLs que não perdem dados, automações que rodam sozinhas.
+Já construí 20+ integrações em produção conectando ERPs, CRMs, APIs de telecom e sistemas financeiros. Foco em APIs robustas, pipelines de dados confiáveis e automações com IA.
 
 ## O que eu faço
 
-- **APIs & Backend** — REST APIs em Go e Python (FastAPI) para produção. WhatsApp API com 129 endpoints servindo múltiplas sessões simultâneas.
-- **Data Engineering** — ETL pipelines com checkpoint/resume, retry automático e observabilidade. Sync de dados entre ERPs, CRMs e bancos PostgreSQL.
-- **Integrações** — Conectei sistemas como Sankhya, Protheus (TOTVS), IXC Provedor, Kommo CRM, Ploomes. Sei lidar com APIs mal documentadas.
-- **AI Tooling** — Ferramentas que colocam LLMs pra trabalhar: bots WhatsApp, REST wrappers, deploy de modelos em Kubernetes.
-- **Infra** — Docker, Kubernetes, Linux. Deploy e manutenção de serviços em VPS e cloud.
+- **Integrações ERP/CRM** — 20+ projetos em produção com Protheus (TOTVS), Sankhya, Senior, Omie, Voalle, MKSolutions, Pipefy, Ploomes, Kommo
+- **Data Engineering** — ETL pipelines com checkpoint/resume, staging em DuckDB, carga em PostgreSQL, retry automático e observabilidade
+- **APIs** — REST APIs em Go e Python (FastAPI). WhatsApp API com 129 endpoints e multi-sessão
+- **AI Tooling** — Bots, REST wrappers e deploy de LLMs. Claude SDK, Open WebUI customizado, avaliação de modelos com DeepEval
+- **Telecom** — Integrações com IXC Provedor, Hubsoft, FVS, Hits API para provedores de internet
+- **Infra** — Docker, Kubernetes, Linux, n8n. Deploy e operação de serviços em VPS e cloud
 
 ## Projetos em destaque
 
