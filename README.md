@@ -1,37 +1,27 @@
-<div align="center" style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=234BEE&lines=font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+me+chamo+Cleberson;Sou+engenheiro+de+dados+%F0%9F%A4%96;Seja+muito+bem+vindo!+" alt="Typing SVG">
-  </a>
-</div>
+# Cleberson Gomes
 
-<p align="center">
-  
-  <a href="https://arktnld.github.io">
-    <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="blog">
-  </a>
-  <a href="https://www.linkedin.com/in/arktnld/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-</p>
+Engenheiro de Software Senior — backend, integrações e automação.
 
-<div>
-  <br> </br>
-  <ul>
-    <p>Sou um profissional de Engenheiro de Dados com seis anos de experiência, com atuação tanto em empresas públicas quanto privadas. Possuo amplo domínio em linguagens de programação populares, bancos de dados, infraestrutura e serviços em nuvem.
-</p>
-  </ul>
-</div>
+Construo APIs, pipelines de dados e ferramentas de automação que funcionam em produção.
 
-<br><br>
+## Stack
 
-<h2 align="left">Principais tecnologias:</h2>
+**Backend:** Python (FastAPI) · Go · TypeScript (Next.js)
+**Dados:** PostgreSQL · ETL · Observability
+**Infra:** Docker · Kubernetes · Linux · n8n
+**AI:** Claude SDK · Open WebUI · LLM tooling
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,arch,aws,azure,bash,cpp,docker,dynamodb,fastapi,flask,git,graphql,java,js,jenkins,kafka,kubernetes,linux,mongodb,mysql,neovim,opencv,php,postgres,postman,powershell,prometheus,rabbitmq,redhat,sqlite,selenium,terraform,ubuntu,vim&perline=14" />
-</div>
+## Projetos
 
-<br><br>
+| Projeto | O que faz |
+|---------|-----------|
+| [wago-api](https://github.com/arktnld/wago-api) | WhatsApp REST API em Go — protocolo nativo, multi-sessão, 108 rotas, Docker 44MB |
+| [claude-code-api](https://github.com/arktnld/claude-code-api) | REST API wrapper pro Claude Code CLI com FastAPI |
+| [tap-ixc](https://github.com/arktnld/tap-ixc) | ETL IXC Provedor → PostgreSQL com checkpoint, retry e observability |
+| [erp-api-tester-next](https://github.com/arktnld/erp-api-tester-next) | Plataforma de testes de API ERP — playbooks, assertions, reports compartilhados |
+| [cbt-llm-kit](https://github.com/arktnld/cbt-llm-kit) | Registros de TCC guiados para assistentes de IA — fluxo de 12 passos |
+| [claude-code-whatsapp](https://github.com/arktnld/claude-code-whatsapp) | Bot WhatsApp para acesso remoto ao Claude Code |
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arktnld&layout=compact&hide_border=true&theme=dracula"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arktnld&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
-</p>
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arktnld/)
